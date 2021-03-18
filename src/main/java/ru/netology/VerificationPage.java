@@ -14,4 +14,4 @@ public class VerificationPage {
         verifyButton.click();
         return new DashboardPage();
     }
-}}
+}
